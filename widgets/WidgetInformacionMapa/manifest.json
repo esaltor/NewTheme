@@ -1,0 +1,24 @@
+{
+  "name": "WidgetInformacionMapa",
+  "2D": true,
+  "3D": false,
+  "platform": "HTML",
+  "version": "2.7",
+  "wabVersion": "2.7",
+  "author": "Ester Alegre",
+  "description": "Widget que muestra la información de nuestro mapa",
+  "copyright": "",
+  "license": "http://www.apache.org/licenses/LICENSE-2.0",
+  "properties": {
+		"inPanel":true,
+		"hasLocale": false,
+		"hasStyle":true,
+		"hasConfig":false,
+		"hasUIFile":true,
+		"hasSettingPage":true,
+		"hasSettingUIFile":true,
+		"hasSettingLocale":true,
+		"hasSettingStyle":true,
+		"IsController":false
+  }
+}
