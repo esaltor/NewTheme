@@ -1,0 +1,2 @@
+# NewTheme
+Nuevo tema
